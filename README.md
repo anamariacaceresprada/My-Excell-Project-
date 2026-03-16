@@ -1,4 +1,4 @@
-# My-Excell-Project- Excel Retail & Sales Analysis Project
+# My-Excell-Project- Retail & Sales Analysis Project
 
 ## Overview
 This project was completed as part of a **Data Technician Bootcamp** and focuses on analysing retail and sales data using **Microsoft Excel**. The goal was to explore, clean, and analyse transactional data to extract meaningful insights about sales performance and customer patterns.
