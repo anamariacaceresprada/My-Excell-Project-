@@ -75,3 +75,13 @@ Through this project I developed practical experience in:
 This work was completed during a **Data Technician Bootcamp**, where the focus was on building foundational data analysis skills using industry-standard tools.
 
 ---
+## Revenue and Profit by Year
+<img width="267" height="121" alt="image" src="https://github.com/user-attachments/assets/24df9c7d-cac4-4bc3-a790-8e372d3613a9" />
+
+## Product Revenue by Country 
+<img width="403" height="143" alt="image" src="https://github.com/user-attachments/assets/1753a4bc-9087-4f37-aaea-3bb8979c322b" />
+
+## Revenue by Group
+<img width="217" height="97" alt="image" src="https://github.com/user-attachments/assets/2a442d6e-c2fc-4644-bce4-b261fa46102f" />
+
+
