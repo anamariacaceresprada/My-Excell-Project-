@@ -84,4 +84,11 @@ This work was completed during a **Data Technician Bootcamp**, where the focus w
 ## Revenue by Group
 <img width="217" height="97" alt="image" src="https://github.com/user-attachments/assets/2a442d6e-c2fc-4644-bce4-b261fa46102f" />
 
+## Sales by Category and Gender 
+<img width="356" height="93" alt="image" src="https://github.com/user-attachments/assets/9256cb1e-f92f-40ee-9aec-d2d4c6efdfe7" />
+<img width="367" height="228" alt="image" src="https://github.com/user-attachments/assets/bff3bcf5-9938-47c5-9f29-d12f3b5ebb09" />
+
+## Pivot,Chart and Sliders for Analysis
+<img width="954" height="411" alt="image" src="https://github.com/user-attachments/assets/78b773a8-403d-4148-8e45-5244d1eaa73b" />
+
 
